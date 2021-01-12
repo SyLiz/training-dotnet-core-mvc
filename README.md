@@ -2,12 +2,7 @@
 
 This repository i do it for training .NET core MVC.
 
-Before starting to use this project you need to install EF SQL Server package 
-[Visual Studio > Package Manager Console]
-(PowerShell)
-> Install-Package Microsoft.EntityFrameworkCore.SqlServer
-
-And you need to create database by run the following command 
+Before starting to use this project you need to create database by run the following command 
 [Visual Studio > Package Manager Console]
 (PowerShell)
 > Update-Database
